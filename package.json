@@ -1,0 +1,23 @@
+{
+  "name": "101-workshop-room-54",
+  "version": "1.0.0",
+  "description": "'workshop to learn node'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lunay-y: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@github.com/SchoolOfCode/node-101-workshop-room-54.git"
+  },
+  "keywords": [
+    "'workshop",
+    "fun'"
+  ],
+  "author": "'Casey and Luna'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-room-54/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-room-54#readme"
+}
