@@ -27,3 +27,8 @@ let myCollection = [
   }
 
   describeItem(myCollection[0]);
+
+function describeCollection(array){
+    array.forEach(describeItem);
+}
+describeCollection(myCollection);
