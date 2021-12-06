@@ -16,4 +16,4 @@ let myCollection = [
     }
   ];
 
-  export 
+  export default myCollection;
